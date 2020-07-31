@@ -25,7 +25,7 @@ Pinneapple on pizza
 ##### TL;DR 
 *tuna funny*
 
-| [<< Per-felx ](https://github.com/Akenaftw/markdown-challenge) |[Awet](https://github.com/awet100/markdown-challenges) |  [Nxt-Cis >>](https://github.com/Beardificent/markdown-challenge)  |
+| [<< FELX ](https://github.com/Akenaftw/markdown-challenge) |[Awet](https://github.com/awet100/markdown-challenges) |  [CIS >>](https://github.com/Beardificent/markdown-challenge)  |
 |-----|-----|----|
 
 
