@@ -4,10 +4,13 @@
 ##### My name is Awet, I am a junior web developers in Becode. I love working with codes. 
 | Birthday: dd/mm | Favorite color | Favorite food |
 |-----------------|----------------|---------------|
-| 01-01-1992 | blue | pizza |
--[ ] Pinneapple on pizza
+| 01-01-1992 | blue | fish |
+Pinneapple on pizza
+-[ ] Yes 
+-[x] No 
 
-### HOBBIES
+
+
 * football
 * watching movies
     * turkish movies
