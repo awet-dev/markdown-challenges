@@ -2,14 +2,13 @@
 *Experience is the name everyone gives to their mistakes*
 ![awet](Awet.jpg)
 ##### My name is Awet, I am a junior web developers in Becode. I love working with codes. 
-| Birthday: dd/mm | Favorite color | Favorite food |
+| Birthday | Favorite color | Favorite food |
 |-----------------|----------------|---------------|
 | 01-01-1992 | blue | fish |
 
 
-Pinneapple on pizza
--[ ] Yes 
--[x] No 
+-[x] Yes Pinneapple on pizza
+ 
 
 
 
@@ -27,7 +26,7 @@ Pinneapple on pizza
 ##### TL;DR 
 *tuna funny*
 
-| [<< Alejandro ](https://github.com/glezzz/markdown-challenge) |[Awet](https://github.com/awet100/markdown-challenges) |  [CIS Magito >>](https://github.com/Beardificent/markdown-challenge)  |
+| [<< Alejandro ](https://github.com/glezzz/markdown-challenge) |[Awet](https://github.com/awet100/markdown-challenges) |  [CIS >>](https://github.com/Beardificent/markdown-challenge)  |
 |-----|-----|----|
 
 
