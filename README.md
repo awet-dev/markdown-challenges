@@ -5,9 +5,7 @@
 | Birthday | Favorite color | Favorite food |
 |-----------------|----------------|---------------|
 | 01-01-1992 | blue | fish |
-
-
--[x] Yes Pinneapple on pizza
+| Pineapple on pizza | &#9745; Yes | &#9744; No|
  
 
 
